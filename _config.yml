@@ -29,18 +29,8 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
-# Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
-
 # Disqus comments
-disqus_shortname: adeptus-dad
+disqus_shortname: @adeptus-dad
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
