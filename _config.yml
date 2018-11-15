@@ -30,7 +30,7 @@ inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
 # Disqus comments
-disqus_shortname: @adeptus-dad
+disqus_shortname: "adeptus-dad"
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
