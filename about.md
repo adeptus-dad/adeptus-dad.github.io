@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/logo.png" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+I have been collecting, painting and playing a lot of Games Workshop stuff between the mid-eighties and the end of the 20th century. In 2018, I have unearthed most of my old stuff to show to my 11 yo daughter and 9 yo son. They seemed to like it. We've since been playing games of Adeptus Titanicus and Warhammer 40k with simplified rules.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+This website serves as a hobby blog, rules repository and will perhaps host some batrep. Rules will be written in French (we speak that here), but if someone shows some interest, I will be humbled and may write english versions.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+{% include page_divider.html %}
+
+This website is using Centrarium, a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. Adeptus Dad likes it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository][centrarium].
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
