@@ -14,7 +14,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>After a 20 years break, Adeptus Dad is revisiting GW Hobby with the kids.</p>
+     <p>After a 20+ years break, Adeptus Dad is revisiting GW Hobby with his kids.</p>
   header_text_feature_image: assets/img/titanicusBoxDusty.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
