@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://adeptus-dad.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
-remote_theme: rohanchandra/type-theme
+# remote_theme: rohanchandra/type-theme
 theme_settings: 
   # Meta
   title: Adeptus Dad
