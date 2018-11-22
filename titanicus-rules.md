@@ -62,6 +62,7 @@ Une unité légère (pas un super lourd, ni un titan) peut se déplacer de 5 cm 
 * Les titans impériaux touchent sur un 4+.
 * Un bouclier a une armure de 8.
 * On répare un bouclier sur un 4+, on lance 1D6 par bouclier tombé.
+* Action spéciale : puissance sur les boucliers 1PA pout avoir des bouclier à 10 d'armure jusqu'à la prochaine activation du titan. Lancer 1D6, sur un 1 le générateur de boucliers est détruit.
 
 ### Dégâts sur les titans impériaux
 
