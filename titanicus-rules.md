@@ -38,10 +38,10 @@ Pour chaque touche on fait un jet de dommages 1D6+Force de l’arme. Si le résu
 
 Si seulement 50% la cible est visible, on applique -1 pout toucher.
 
-Une arme qui a déjà servi dans le tour subit un modificateur cumulatif de -1 au toucher (il devient de plus en plus dur de viser, ou les combattants sont fatigués). Les armes notées X! ne peuvent être utilisées qu’une seule fois par tour.
+Une arme qui a déjà servi dans le tour subit un modificateur cumulatif de -1 au toucher (il devient de plus en plus dur de viser, ou les combattants sont fatigués). Les armes notées `X!` ne peuvent être utilisées qu’une seule fois par tour.
 
-Si une arme est notée “CC” (close combat) l’unité adverse a l’opportunité d’attaquer avec une arme CC si elle en possède une et qu’elle est encore en vie après la résolution de l’attaque.
-Les attaques de CC ont une portée de 3 cm. 
+Si une arme est notée `CC` (close combat) l’unité adverse a l’opportunité d’attaquer avec une arme de close combat si elle en possède une et qu’elle est encore en vie après la résolution de l’attaque.
+Les attaques de close combat ont une portée de 3 cm. 
   
 
 ## Types d'unités
@@ -53,4 +53,17 @@ Lorsque l’on attaque un titan, on choisi d’attaquer haut ou bas. Pour les ar
 Capables d’encaisser plusieurs dégâts. En général, un super lourd perd 1PA par dommage reçu.
 
 ### Infanterie et unités légères
-Une unité légère (pas un super lourd, ni un titan) peut se déplacer de 5cm juste avant d’attaquer avec une arme CC. Cela représente la charge au corps à corps.
+Une unité légère (pas un super lourd, ni un titan) peut se déplacer de 5cm juste avant d’attaquer avec une arme `CC`. Cela représente la charge au corps à corps.
+
+# Forces de l'Imperium
+
+## Titans
+
+| Seigneur de Guerre | Brigand | Chien de Guerre |
+|-|-|-|
+| *Warlord* | *Reaver* | *Warhound* |
+|  |  |  | 
+
+
+# Forces Orks
+
