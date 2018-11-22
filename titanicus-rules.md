@@ -53,16 +53,69 @@ Lorsque l’on attaque un titan, on choisi d’attaquer haut ou bas. Pour les ar
 Capables d’encaisser plusieurs dégâts. En général, un super lourd perd 1PA par dommage reçu.
 
 ### Infanterie et unités légères
-Une unité légère (pas un super lourd, ni un titan) peut se déplacer de 5cm juste avant d’attaquer avec une arme `CC`. Cela représente la charge au corps à corps.
+Une unité légère (pas un super lourd, ni un titan) peut se déplacer de 5 cm juste avant d’attaquer avec une arme `CC`. Cela représente la charge au corps à corps.
 
 # Forces de l'Imperium
 
-## Titans
+## Titans impériaux
 
-| Seigneur de Guerre | Brigand | Chien de Guerre |
-|-|-|-|
-| *Warlord* | *Reaver* | *Warhound* |
-|  |  |  | 
+* Les titans impériaux touchent sur un 4+.
+* Un bouclier a une armure de 8.
+* On répare un bouclier sur un 4+, on lance 1D6 par bouclier tombé.
+
+### Dégâts sur les titans impériaux
+
+En haut, à partir du deuxième point de structure perdu, on tire un D6 pour déterminer un effet spécial : [1-3] une arme détruite, [4] VSG détruit, [5-6] réacteur endommagé (-2PA)
+
+En bas, le premier point de structure fait perdre un 45°, le deuxième la moitié de la distance de mouvement, le troisième un autre 45° (s'il n'en reste pas, la moitié du mouvement restant, etc.)
+
+### Fiches
+
+<div class="row">
+  <div class="col-1-3 unit-sheet">
+  	<div style="text-align: center; font-weight: bold;">Seigneur de Guerre</div>
+  	<div style="text-align: center; font-style: italic;">Warlord / Nemesis</div>
+	<div>4 armes</div>
+	<div>Mouvement 8 cm + 1x45°</div>
+	<div>HAUT - Armure 12/10 ☐☐☐☐☐</div>
+	<div>BAS - Armure 12/10 ☐☐☐☐☐</div>
+  </div>
+  <div class="col-1-3 unit-sheet">
+  	<div style="text-align: center; font-weight: bold;">Seigneur de Guerre</div>
+  	<div style="text-align: center; font-style: italic;">Warlord / Death Bringer</div>
+	<div>3 armes</div>
+	<div>Mouvement 12 cm + 1x45°</div>
+	<div>HAUT - Armure 12/10 ☐☐☐☐☐</div>
+	<div>BAS - Armure 12/10 ☐☐☐☐☐</div>
+  </div>
+  <div class="col-1-3 unit-sheet">
+  	<div style="text-align: center; font-weight: bold;">Seigneur de Guerre</div>
+  	<div style="text-align: center; font-style: italic;">Warlord / Night Gaunt</div>
+	<div>2 armes</div>
+	<div>Mouvement 16 cm + 2x45°</div>
+	<div>HAUT - Armure 12/10 ☐☐☐☐☐</div>
+	<div>BAS - Armure 12/10 ☐☐☐☐☐</div>
+  </div>
+</div><!-- /.row -->
+
+<div class="row">
+  <div class="col-1-3 unit-sheet">
+  	<div style="text-align: center; font-weight: bold;">Brigand</div>
+  	<div style="text-align: center; font-style: italic;">Reaver</div>
+	<div>3 armes</div>
+	<div>Mouvement 16 cm + 2x45°</div>
+	<div>HAUT - Armure 11 ☐☐☐☐</div>
+	<div>BAS - Armure 11 ☐☐☐☐</div>
+  </div>
+  <div class="col-1-3 unit-sheet">
+  	<div style="text-align: center; font-weight: bold;">Chien de Guerre</div>
+  	<div style="text-align: center; font-style: italic;">Warhound</div>
+	<div>2 armes</div>
+	<div>Mouvement 24 cm / 3x45°</div>
+	<div>HAUT - Armure 10 ☐☐☐</div>
+	<div>BAS - Armure 10 ☐☐☐</div>
+  </div>
+</div><!-- /.row -->
 
 
 # Forces Orks
