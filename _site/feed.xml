@@ -5,7 +5,16 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Fri, 23 Nov 2018 22:59:35 +0100</pubDate>
+    <pubDate>Fri, 23 Nov 2018 23:05:33 +0100</pubDate>
+    
+      <item>
+        <title>Titanicus Rules Posted</title>
+        <link>/2018/11/23/titanicus-rules.html</link>
+        <guid isPermaLink="true">/2018/11/23/titanicus-rules.html</guid>
+        <description>&lt;p&gt;&lt;a href=&quot;/titanicus-rules&quot;&gt;The rules are posted here&lt;/a&gt;. This is a work in progress.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Nov 2018 23:00:00 +0100</pubDate>
+      </item>
     
       <item>
         <title>Ignition!</title>

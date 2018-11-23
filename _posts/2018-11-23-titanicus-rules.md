@@ -8,4 +8,4 @@ feature-img: "assets/img/titanicusBoxDusty.jpg"
 comments: true
 ---
 
-![The rules are posted here]({{ site.baseurl }}/titanicus-rules). This is a work in progress. 
+[The rules are posted here]({{ site.baseurl }}/titanicus-rules). This is a work in progress. 
