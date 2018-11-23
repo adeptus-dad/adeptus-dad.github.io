@@ -38,6 +38,8 @@ Pour chaque touche on fait un jet de dommages 1D6+Force de l’arme. Si le résu
 
 Si seulement 50% la cible est visible, on applique -1 pout toucher.
 
+Si le tireur n'a pas encore bougé pendant son activation, on applique +1 pour toucher.
+
 Une arme qui a déjà servi dans le tour subit un modificateur cumulatif de -1 au toucher (il devient de plus en plus dur de viser, ou les combattants sont fatigués). Les armes notées `X!` ne peuvent être utilisées qu’une seule fois par tour.
 
 Si une arme est notée `CC` (close combat) l’unité adverse a l’opportunité d’attaquer avec une arme de close combat si elle en possède une et qu’elle est encore en vie après la résolution de l’attaque.
@@ -78,24 +80,24 @@ En bas, le premier point de structure fait perdre un 45°, le deuxième la moiti
   	<div style="text-align: center; font-style: italic;">Warlord / Nemesis</div>
 	<div>4 armes</div>
 	<div>Mouvement 8 cm + 1x45°</div>
-	<div>HAUT - Armure 12/10 ☐☐☐☐☐</div>
-	<div>BAS - Armure 12/10 ☐☐☐☐☐</div>
+	<div>HAUT - Armure 12/10 ◉◉◉◉◉</div>
+	<div>BAS - Armure 12/10 ◉◉◉◉◉</div>
   </div>
   <div class="col-1-3 unit-sheet">
   	<div style="text-align: center; font-weight: bold;">Seigneur de Guerre</div>
   	<div style="text-align: center; font-style: italic;">Warlord / Death Bringer</div>
 	<div>3 armes</div>
 	<div>Mouvement 12 cm + 1x45°</div>
-	<div>HAUT - Armure 12/10 ☐☐☐☐☐</div>
-	<div>BAS - Armure 12/10 ☐☐☐☐☐</div>
+	<div>HAUT - Armure 12/10 ◉◉◉◉◉</div>
+	<div>BAS - Armure 12/10 ◉◉◉◉◉</div>
   </div>
   <div class="col-1-3 unit-sheet">
   	<div style="text-align: center; font-weight: bold;">Seigneur de Guerre</div>
   	<div style="text-align: center; font-style: italic;">Warlord / Night Gaunt</div>
 	<div>2 armes</div>
 	<div>Mouvement 16 cm + 2x45°</div>
-	<div>HAUT - Armure 12/10 ☐☐☐☐☐</div>
-	<div>BAS - Armure 12/10 ☐☐☐☐☐</div>
+	<div>HAUT - Armure 12/10 ◉◉◉◉◉</div>
+	<div>BAS - Armure 12/10 ◉◉◉◉◉</div>
   </div>
 </div><!-- /.row -->
 
@@ -105,16 +107,17 @@ En bas, le premier point de structure fait perdre un 45°, le deuxième la moiti
   	<div style="text-align: center; font-style: italic;">Reaver</div>
 	<div>3 armes</div>
 	<div>Mouvement 16 cm + 2x45°</div>
-	<div>HAUT - Armure 11 ☐☐☐☐</div>
-	<div>BAS - Armure 11 ☐☐☐☐</div>
+	<div>HAUT - Armure 11 ◉◉◉◉</div>
+	<div>BAS - Armure 11 ◉◉◉◉</div>
   </div>
   <div class="col-1-3 unit-sheet">
   	<div style="text-align: center; font-weight: bold;">Chien de Guerre</div>
   	<div style="text-align: center; font-style: italic;">Warhound</div>
 	<div>2 armes</div>
 	<div>Mouvement 24 cm / 3x45°</div>
-	<div>HAUT - Armure 10 ☐☐☐</div>
-	<div>BAS - Armure 10 ☐☐☐</div>
+	<div>HAUT - Armure 10 ◉◉◉</div>
+	<div>BAS - Armure 10 ◉◉◉</div>
+	<div>Manoeuvrable: -1 pour toucher un Chien de Guerre</div>
   </div>
 </div><!-- /.row -->
 
