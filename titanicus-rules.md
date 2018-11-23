@@ -40,7 +40,7 @@ Si seulement 50% la cible est visible, on applique -1 pout toucher.
 
 Si le tireur n'a pas encore bougé pendant son activation, on applique +1 pour toucher.
 
-Une arme qui a déjà servi dans le tour subit un modificateur cumulatif de -1 au toucher (il devient de plus en plus dur de viser, ou les combattants sont fatigués). Les armes notées `X!` ne peuvent être utilisées qu’une seule fois par tour.
+Une arme qui a déjà servi dans le tour subit un modificateur cumulatif de -1 au toucher (il devient de plus en plus dur de viser, ou les combattants sont fatigués). Les armes notées `!X` ne peuvent être utilisées qu’une seule fois par tour.
 
 Si une arme est notée `CC` (close combat) l’unité adverse a l’opportunité d’attaquer avec une arme de close combat si elle en possède une et qu’elle est encore en vie après la résolution de l’attaque.
 Les attaques de close combat ont une portée de 3 cm. 
@@ -64,62 +64,130 @@ Une unité légère (pas un super lourd, ni un titan) peut se déplacer de 5 cm 
 * Les titans impériaux touchent sur un 4+.
 * Un bouclier a une armure de 8.
 * On répare un bouclier sur un 4+, on lance 1D6 par bouclier tombé.
-* Action spéciale : puissance sur les boucliers 1PA pout avoir des bouclier à 10 d'armure jusqu'à la prochaine activation du titan. Lancer 1D6, sur un 1 le générateur de boucliers est détruit.
+* Action spéciale : puissance sur le générateur de boucliers (VSG) 1PA pout avoir des bouclier à 10 d'armure jusqu'à la prochaine activation du titan. Lancer 1D6, sur un 1 le générateur de boucliers est détruit.
 
 ### Dégâts sur les titans impériaux
 
 En haut, à partir du deuxième point de structure perdu, on tire un D6 pour déterminer un effet spécial : [1-3] une arme détruite, [4] VSG détruit, [5-6] réacteur endommagé (-2PA)
 
-En bas, le premier point de structure fait perdre un 45°, le deuxième la moitié de la distance de mouvement, le troisième un autre 45° (s'il n'en reste pas, la moitié du mouvement restant, etc.)
+En bas, le premier point de structure fait perdre un 45°, le deuxième la moitié de la distance de mouvement, le troisième un autre 45° (s'il n'en reste pas, la moitié du mouvement restant, etc.) Un titan à qui il reste au moins 1 cm de mouvement peut toujours choisir de tourner de 45° au lieu d'avancer. 
+
+### Mouvement
+
+Si un titan choisit de reculer pendant son action de mouvement, son déplacement est réduit de moitié.
+
+Si un titan passe sur un terrain difficile pendant son action de mouvement, son déplacement est réduit de moitié.
 
 ### Fiches
 
 <div class="row">
   <div class="col-1-3 unit-sheet">
-  	<div style="text-align: center; font-weight: bold;">Seigneur de Guerre</div>
-  	<div style="text-align: center; font-style: italic;">Warlord / Nemesis</div>
+  	<div class="centered" style="font-weight: bold;">Seigneur de Guerre</div>
+  	<div class="centered" style="font-style: italic;">Warlord / Nemesis</div>
 	<div>4 armes</div>
 	<div>Mouvement 8 cm + 1x45°</div>
-	<div>HAUT - Armure 12/10 ◉◉◉◉◉</div>
-	<div>BAS - Armure 12/10 ◉◉◉◉◉</div>
+	<div><span>BAS - Armure 12/10</span> ◉◉◉◉◉</div>
+	<div><span>BAS - Armure 12/10</span> ◉◉◉◉◉</div>
   </div>
   <div class="col-1-3 unit-sheet">
-  	<div style="text-align: center; font-weight: bold;">Seigneur de Guerre</div>
-  	<div style="text-align: center; font-style: italic;">Warlord / Death Bringer</div>
+  	<div class="centered" style="font-weight: bold;">Seigneur de Guerre</div>
+  	<div class="centered" style="font-style: italic;">Warlord / Death Bringer</div>
 	<div>3 armes</div>
 	<div>Mouvement 12 cm + 1x45°</div>
-	<div>HAUT - Armure 12/10 ◉◉◉◉◉</div>
-	<div>BAS - Armure 12/10 ◉◉◉◉◉</div>
+	<div><span>BAS - Armure 12/10</span> ◉◉◉◉◉</div>
+	<div><span>BAS - Armure 12/10</span> ◉◉◉◉◉</div>
   </div>
   <div class="col-1-3 unit-sheet">
-  	<div style="text-align: center; font-weight: bold;">Seigneur de Guerre</div>
-  	<div style="text-align: center; font-style: italic;">Warlord / Night Gaunt</div>
+  	<div class="centered" style="font-weight: bold;">Seigneur de Guerre</div>
+  	<div class="centered" style="font-style: italic;">Warlord / Night Gaunt</div>
 	<div>2 armes</div>
 	<div>Mouvement 16 cm + 2x45°</div>
-	<div>HAUT - Armure 12/10 ◉◉◉◉◉</div>
-	<div>BAS - Armure 12/10 ◉◉◉◉◉</div>
+	<div><span>BAS - Armure 12/10</span> ◉◉◉◉◉</div>
+	<div><span>BAS - Armure 12/10</span> ◉◉◉◉◉</div>
   </div>
 </div><!-- /.row -->
 
 <div class="row">
   <div class="col-1-3 unit-sheet">
-  	<div style="text-align: center; font-weight: bold;">Brigand</div>
-  	<div style="text-align: center; font-style: italic;">Reaver</div>
+  	<div class="centered" style="font-weight: bold;">Écumeur</div>
+  	<div class="centered" style="font-style: italic;">Reaver</div>
 	<div>3 armes</div>
 	<div>Mouvement 16 cm + 2x45°</div>
-	<div>HAUT - Armure 11 ◉◉◉◉</div>
-	<div>BAS - Armure 11 ◉◉◉◉</div>
+	<div><span>BAS - Armure 11</span> ◉◉◉◉</div>
+	<div><span>BAS - Armure 11</span> ◉◉◉◉</div>
   </div>
   <div class="col-1-3 unit-sheet">
-  	<div style="text-align: center; font-weight: bold;">Chien de Guerre</div>
-  	<div style="text-align: center; font-style: italic;">Warhound</div>
+  	<div class="centered" style="font-weight: bold;">Chien de Guerre</div>
+  	<div class="centered" style="font-style: italic;">Warhound</div>
 	<div>2 armes</div>
 	<div>Mouvement 24 cm / 3x45°</div>
-	<div>HAUT - Armure 10 ◉◉◉</div>
-	<div>BAS - Armure 10 ◉◉◉</div>
+	<div><span>BAS - Armure 10</span> ◉◉◉</div>
+	<div><span>BAS - Armure 10</span> ◉◉◉</div>
 	<div>Manoeuvrable: -1 pour toucher un Chien de Guerre</div>
   </div>
 </div><!-- /.row -->
+
+
+### Armes des titans impériaux
+
+<div class="row">
+  <div class="col-1-4 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Multilaser</div>
+	  	<div>45cm // 6xF4</div>
+  </div>
+  <div class="col-1-4 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Gatling Blaster</div>
+	  	<div>45cm // 4xF5</div>
+  </div>
+  <div class="col-1-4 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Plasma Cannon</div>
+	  	<div>45cm // 2xF6</div>
+  </div>
+  <div class="col-1-4 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Volcano Cannon</div>
+	  	<div>60cm // 1xF9</div>
+  </div>
+</div><!-- /.row -->
+<div class="row">
+  <div class="col-1-4 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Chainfist</div>
+	  	<div>CC // 2xF7</div>
+  </div>
+  <div class="col-1-4 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Powerfist</div>
+	  	<div>CC // !1xF9</div>
+  </div>
+  <div class="col-1-4 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Attaque improvisée</div>
+	  	<div>CC // 1xF6</div>
+  </div>
+</div><!-- /.row -->
+<div class="row">
+  <div class="col-1-3 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Quake Cannon</div>
+	  	<div>90cm // 1xF7</div>
+	  	<div>Si un Quake Cannon touche, il inflige au moins point un dégât</div>
+  </div>
+  <div class="col-1-3 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Missile Launcher</div>
+	  	<div>90cm // D6xF5</div>
+	  	<div>Peut tirer en indirect si un titan ami voit la cible</div>
+  </div>
+  <div class="col-1-3 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Plasma Annihilateur</div>
+	  	<div>60cm // 4xF7</div>
+	  	<div>3 PA pour tirer</div>
+	  	<div>Impossible de viser avec cette arme</div>
+  </div>
+</div><!-- /.row -->
+<div class="row">
+  <div class="col-1-3 unit-sheet">
+    	<div class="centered" style="font-weight: bold;">Trident</div>
+	  	<div>20cm // 1xF7</div>
+	  	<div>Règle spéciale</div>
+  </div>
+</div><!-- /.row -->
+
 
 
 # Forces Orks
