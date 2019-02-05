@@ -12,7 +12,7 @@ Once upon a time in 1991, the original Adeptus Titanicus game was all the rage, 
 
 ![WD133]({{ site.baseurl }}/assets/img/ursus/trident.jpg)
 
-In 2012, Aaron Dembski-Bowden wrote a fine book named *Betrayer* (the 24th novel in the Horus Heresy Series) featuring the Warhound-only Legio Audax (Ember Wolves) which intensively used a very similar weapon design. These *Ursus Claws* allow the light titans to take literally down larger ones by using pack tactics and toppling big guys.
+In 2012, Aaron Dembski-Bowden wrote a fine book named *Betrayer* (the 24th novel in the Horus Heresy Series) featuring the Warhound-only Legio Audax (Ember Wolves) which intensively used a very similar weapon design. These *Ursus Claws* allow the light titans to take literally down larger ones by using pack tactics and toppling big guys. The same kind of weapin were used on imperial navy ships for boarding assaults.
 
 Of course, some talented people started building them for the ForgeWorld resin titans.
 
@@ -25,3 +25,5 @@ Poom made himself an [Ursus Claw](https://www.tapatalk.com/groups/the_ammobunker
 Also, on the blog of the excellent [Aaron Dembski-Bowden](https://aarondembskibowden.wordpress.com/2013/10/28/deathwatch-talon-and-the-rise-of-the-weekender/), I found Benjamin Sephton-Smith’s Warhound with an ursus claw armament on his Morning Star Warhound.
 
 ![Warhound]({{ site.baseurl }}/assets/img/ursus/morning_star.jpg)
+
+More recently, the concept was transferred to knight, with the thundercoil harpoon available to Knight Valiants.
