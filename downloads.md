@@ -6,4 +6,7 @@ feature-img: "assets/img/titanicusBoxDusty.jpg"
 ---
 
 ## Règles maison Adeptus Titanicus (Epic)
-![WD133]({{ site.baseurl }}/assets/pdf/titanicus.pdf)
+[![Rules][titanicus]][titanicus]
+
+
+[titanicus]: {{ site.baseurl }}/assets/pdf/titanicus.pdf

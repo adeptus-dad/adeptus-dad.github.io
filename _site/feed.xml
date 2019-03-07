@@ -5,22 +5,22 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Thu, 07 Mar 2019 17:03:12 +0100</pubDate>
+    <pubDate>Thu, 07 Mar 2019 23:35:31 +0100</pubDate>
     
       <item>
         <title>Proteus Pattern Warhound Titan in OpenScad</title>
         <link>/2019/03/07/warhound-proteus-1.html</link>
         <guid isPermaLink="true">/2019/03/07/warhound-proteus-1.html</guid>
         <description>&lt;p&gt;I’ve heard they call the “new” Warhound design &lt;em&gt;Mars Pattern&lt;/em&gt;. So to keep in line with what GW has been doing with the Land Speeder, Land Raider, Missile Launcher, etc. let’s call the old (superior) design &lt;em&gt;Proteus Pattern&lt;/em&gt;. 
-&lt;img src=&quot;/assets/img/proteus/IMG_0333.jpg&quot; alt=&quot;WD133&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/proteus/IMG_0333.jpg&quot; alt=&quot;Desk&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So, I have these sitting on my desk and I must admit that I really don’t like this Mars Pattern body, it’s not very elegant (don’t start me on the Lucius Patterns!) So, the obvious solution is to whip out OpenScad and start modelling replacement bodies for my new plastic warhounds!&lt;/p&gt;
 
 &lt;p&gt;After a few hours, things are beginning to take shape…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/proteus/full.png&quot; alt=&quot;WD133&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/proteus/full.png&quot; alt=&quot;OpenScad&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/proteus/partial.png&quot; alt=&quot;WD133&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/proteus/partial.png&quot; alt=&quot;OpenScad&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Still a lot of adjustments to do: rivets (lots), various details, exhaust vents, etc. The arm is intended to mount the laser blasters and vulcan mega bolters sideways, to keep the old approach. I don’t think that the plasma and flamer weapons would work visually sideways. Different mounting arms will be needed. The whole thing is designed so that the weapons can be magnetized, and hopefully, the weapon cabling will get under the carapace.&lt;/p&gt;
 
