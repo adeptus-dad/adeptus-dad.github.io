@@ -19,9 +19,10 @@
 			{% if page.title and page.hide != true %}
 			<li>
 				<a class="page-link" href="{{ page.url | relative_url }}">
-					[{{ page.title }}]
-				</a>
+					{{ page.title }}
+				</a> 
 			</li>
+			<li>•</li>
 			{% endif %}
 			{% endfor %}
 			<!-- Social icons from Font Awesome, if enabled  -->

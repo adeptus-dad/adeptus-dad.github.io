@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 feature-img: "assets/img/titanicusBoxDusty.jpg"
 ---

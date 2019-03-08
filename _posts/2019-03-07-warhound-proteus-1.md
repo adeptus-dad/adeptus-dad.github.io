@@ -3,7 +3,7 @@ layout: post
 title:  "Proteus Pattern Warhound Titan in OpenScad"
 date:   2019-03-07 00:00:00
 author: Dad
-tags:   [titanicus, openScad, warhound, wip]
+tags:   [8mm, openScad, warhound, wip]
 feature-img: "assets/img/proteus/full-invert.png"
 comments: true
 ---

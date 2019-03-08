@@ -1,6 +1,6 @@
 ---
 layout: page
-title: downloads
+title: Downloads
 permalink: /downloads/
 feature-img: "assets/img/titanicusBoxDusty.jpg"
 ---
