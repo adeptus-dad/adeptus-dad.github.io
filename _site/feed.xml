@@ -5,7 +5,26 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Fri, 08 Mar 2019 09:18:24 +0100</pubDate>
+    <pubDate>Fri, 08 Mar 2019 18:06:59 +0100</pubDate>
+    
+      <item>
+        <title>Proteus Pattern Warhound: Alpha Design</title>
+        <link>/2019/03/08/warhound-proteus-2.html</link>
+        <guid isPermaLink="true">/2019/03/08/warhound-proteus-2.html</guid>
+        <description>&lt;p&gt;With the positive reactions after yeasterday’s post on &lt;a href=&quot;https://www.reddit.com/r/adeptustitanicus/comments/aye7z3/proteus_pattern_warhound_titan_in_openscad/&quot;&gt;r/adeptustitanicus&lt;/a&gt; and &lt;a href=&quot;https://www.reddit.com/r/3Dprintedtabletops/&quot;&gt;r/3Dprintedtabletops&lt;/a&gt;, I was encouraged to finish the alpha design of the Proteus Pattern Warhound Titan’s replacement parts. The order is made on Shapeways, we’ll see in a few weeks if it all fits.&lt;/p&gt;
+
+&lt;p&gt;You can see below a few beauty shots of the various parts. I think that I found a way to mount the plasma cannon sideways, I will leave the flamer for a later iteration (maybe with the Trident/Ursus Claw that I have had in mind for several weeks…)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/proteus/alpha1.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha1.png&quot; alt=&quot;alpha1&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/assets/img/proteus/alpha2.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha2.png&quot; alt=&quot;alpha2&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/assets/img/proteus/alpha3.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha3.png&quot; alt=&quot;alpha3&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/assets/img/proteus/alpha4.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha4.png&quot; alt=&quot;alpha4&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/assets/img/proteus/alpha5.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha5.png&quot; alt=&quot;alpha5&quot; /&gt;&lt;/a&gt;
+The arms are designed to be magnetized. The shoulder sphere can receive a ∅3mm x 4mm magnet, and I plan to put a simple piece of metal inside the body. I hope that this way I can avoid polarity mistakes with the magnets and allow for easier posability of the arms (two magnets tend to align their axes, while I want a ball joint).&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 08 Mar 2019 01:00:00 +0100</pubDate>
+      </item>
     
       <item>
         <title>Proteus Pattern Warhound Titan in OpenScad</title>
