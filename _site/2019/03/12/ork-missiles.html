@@ -2,8 +2,8 @@
 <html class="no-js">
   <head>
 	<meta charset="utf-8">
-	<title>Proteus Pattern Warhound: Alpha Design | Adeptus Dad</title>
-	<meta name="description" content="With the positive reactions after yeasterday’s post on r/adeptustitanicus and r/3Dprintedtabletops, I was encouraged to finish the alpha design of the Proteu...">
+	<title>Parametric Ork Missiles in OpenScad | Adeptus Dad</title>
+	<meta name="description" content="My recent order to Shapeways was the occasion to try something I whipped up a while ago: parametric ork missiles! For a long time, I’ve wanted to convert sta...">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- CSS -->
@@ -13,7 +13,7 @@
 	<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
 
 	<!-- Canonical -->
-	<link rel="canonical" href="/2019/03/08/warhound-proteus-2.html">
+	<link rel="canonical" href="/2019/03/12/ork-missiles.html">
 
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="Adeptus Dad" href="/feed.xml" />
@@ -147,38 +147,40 @@
 
     <div class="content">
       <article class="feature-image">
-  <header style="background-image: url('/assets/img/proteus/full-invert.png')">
-    <h1 class="title">Proteus Pattern Warhound: Alpha Design</h1>
+  <header style="background-image: url('/assets/img/ork/missiles-banner.png')">
+    <h1 class="title">Parametric Ork Missiles in OpenScad</h1>
     
     <p class="meta">
-      March 8, 2019
+      March 12, 2019
        - Dad
     </p>
   </header>
-  <section class="post-content"><p>With the positive reactions after yeasterday’s post on <a href="https://www.reddit.com/r/adeptustitanicus/comments/aye7z3/proteus_pattern_warhound_titan_in_openscad/">r/adeptustitanicus</a> and <a href="https://www.reddit.com/r/3Dprintedtabletops/">r/3Dprintedtabletops</a>, I was encouraged to finish the alpha design of the Proteus Pattern Warhound Titan’s replacement parts. The order is made on Shapeways, we’ll see in a few weeks if it all fits.</p>
+  <section class="post-content"><p><img src="/assets/img/ork/missiles.png" alt="missiles" />
+My <a href="/2019/03/08/warhound-proteus-2.html">recent order</a> to Shapeways was the occasion to try something I whipped up a while ago: parametric ork missiles! For a long time, I’ve wanted to convert stantard shooty boyz to tankbustas simply by adding a missile to the front of their shoota. The reasoning being that firing a bullet in a missile was a very good way to launch it.</p>
 
-<p>You can see below a few beauty shots of the various parts. I think that I found a way to mount the plasma cannon sideways, I will leave the flamer for a later iteration (maybe with the Trident/Ursus Claw that I have had in mind for several weeks…)</p>
+<p>I was just needing some propa’ orky missiles, so I went to OpenScad. And of course, the beauty of OpenScad is that your 3D models can be <em>parametric</em>. So, if you have a parametric missile model and some random values, you can generate any number of different missiles. The parameters I choose were:</p>
+<ul>
+  <li>radius of the missile</li>
+  <li>length of the warhead</li>
+  <li>length of the body</li>
+  <li>size of the fins</li>
+  <li>number of fins</li>
+</ul>
 
-<p><a href="/assets/img/proteus/alpha1.png"><img src="/assets/img/proteus/alpha1.png" alt="alpha1" /></a>
-<a href="/assets/img/proteus/alpha2.png"><img src="/assets/img/proteus/alpha2.png" alt="alpha2" /></a>
-<a href="/assets/img/proteus/alpha3.png"><img src="/assets/img/proteus/alpha3.png" alt="alpha3" /></a>
-<a href="/assets/img/proteus/alpha4.png"><img src="/assets/img/proteus/alpha4.png" alt="alpha4" /></a>
-<a href="/assets/img/proteus/alpha5.png"><img src="/assets/img/proteus/alpha5.png" alt="alpha5" /></a></p>
+<p>Main OpenScad code below. Feel free to reuse/modify it! I’ll post the result as I receive my order from Shapeways.</p>
 
-<p>The arms are designed to be magnetized. The shoulder sphere can receive a ∅3mm x 4mm magnet, and I plan to put a simple piece of metal inside the body. I hope that this way I can avoid polarity mistakes with the magnets and allow for easier posability of the arms (two magnets tend to align their axes, while I want a ball joint).</p>
+<script src="https://gist.github.com/adeptus-dad/dfbb9b4c33fbc11f804af11db851f412.js"></script>
 
 </section>
   
 <footer>
   <div class="tags">
     
-    <a class="tag" href="/tags#8mm">#8mm</a>
+    <a class="tag" href="/tags#28mm">#28mm</a>
     
     <a class="tag" href="/tags#openScad">#openScad</a>
     
-    <a class="tag" href="/tags#warhound">#warhound</a>
-    
-    <a class="tag" href="/tags#wip">#wip</a>
+    <a class="tag" href="/tags#ork">#ork</a>
     
   </div>
 </footer>

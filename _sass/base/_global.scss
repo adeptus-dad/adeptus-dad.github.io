@@ -75,6 +75,9 @@ body {
   font-size: $font-size;
   word-wrap: break-word;
 }
+code {
+  font-size: $font-code;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headings;
   line-height: 1.3;

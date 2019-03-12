@@ -5,7 +5,31 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Fri, 08 Mar 2019 18:06:59 +0100</pubDate>
+    <pubDate>Tue, 12 Mar 2019 22:44:34 +0100</pubDate>
+    
+      <item>
+        <title>Parametric Ork Missiles in OpenScad</title>
+        <link>/2019/03/12/ork-missiles.html</link>
+        <guid isPermaLink="true">/2019/03/12/ork-missiles.html</guid>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/img/ork/missiles.png&quot; alt=&quot;missiles&quot; /&gt;
+My &lt;a href=&quot;/2019/03/08/warhound-proteus-2.html&quot;&gt;recent order&lt;/a&gt; to Shapeways was the occasion to try something I whipped up a while ago: parametric ork missiles! For a long time, I’ve wanted to convert stantard shooty boyz to tankbustas simply by adding a missile to the front of their shoota. The reasoning being that firing a bullet in a missile was a very good way to launch it.&lt;/p&gt;
+
+&lt;p&gt;I was just needing some propa’ orky missiles, so I went to OpenScad. And of course, the beauty of OpenScad is that your 3D models can be &lt;em&gt;parametric&lt;/em&gt;. So, if you have a parametric missile model and some random values, you can generate any number of different missiles. The parameters I choose were:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;radius of the missile&lt;/li&gt;
+  &lt;li&gt;length of the warhead&lt;/li&gt;
+  &lt;li&gt;length of the body&lt;/li&gt;
+  &lt;li&gt;size of the fins&lt;/li&gt;
+  &lt;li&gt;number of fins&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Main OpenScad code below. Feel free to reuse/modify it! I’ll post the result as I receive my order from Shapeways.&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/adeptus-dad/dfbb9b4c33fbc11f804af11db851f412.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Tue, 12 Mar 2019 01:00:00 +0100</pubDate>
+      </item>
     
       <item>
         <title>Proteus Pattern Warhound: Alpha Design</title>
@@ -19,8 +43,9 @@
 &lt;a href=&quot;/assets/img/proteus/alpha2.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha2.png&quot; alt=&quot;alpha2&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;/assets/img/proteus/alpha3.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha3.png&quot; alt=&quot;alpha3&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;/assets/img/proteus/alpha4.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha4.png&quot; alt=&quot;alpha4&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/assets/img/proteus/alpha5.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha5.png&quot; alt=&quot;alpha5&quot; /&gt;&lt;/a&gt;
-The arms are designed to be magnetized. The shoulder sphere can receive a ∅3mm x 4mm magnet, and I plan to put a simple piece of metal inside the body. I hope that this way I can avoid polarity mistakes with the magnets and allow for easier posability of the arms (two magnets tend to align their axes, while I want a ball joint).&lt;/p&gt;
+&lt;a href=&quot;/assets/img/proteus/alpha5.png&quot;&gt;&lt;img src=&quot;/assets/img/proteus/alpha5.png&quot; alt=&quot;alpha5&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The arms are designed to be magnetized. The shoulder sphere can receive a ∅3mm x 4mm magnet, and I plan to put a simple piece of metal inside the body. I hope that this way I can avoid polarity mistakes with the magnets and allow for easier posability of the arms (two magnets tend to align their axes, while I want a ball joint).&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 08 Mar 2019 01:00:00 +0100</pubDate>

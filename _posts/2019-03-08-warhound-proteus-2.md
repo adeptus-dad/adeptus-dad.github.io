@@ -17,6 +17,7 @@ You can see below a few beauty shots of the various parts. I think that I found 
 [![alpha3][alpha3]][alpha3]
 [![alpha4][alpha4]][alpha4]
 [![alpha5][alpha5]][alpha5]
+
 The arms are designed to be magnetized. The shoulder sphere can receive a ∅3mm x 4mm magnet, and I plan to put a simple piece of metal inside the body. I hope that this way I can avoid polarity mistakes with the magnets and allow for easier posability of the arms (two magnets tend to align their axes, while I want a ball joint).
 
 
