@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Parametric Ork Missiles in OpenScad"
+title:  "Parametric Ork Missiles in OpenScad (updated)"
 date:   2019-03-12 00:00:00
 author: Dad
 tags:   [28mm, openScad, ork]
@@ -18,12 +18,16 @@ I was just needing some propa' orky missiles, so I went to OpenScad. And of cour
 - size of the fins
 - number of fins
 
-Main OpenScad code below. Feel free to reuse/modify it! I'll post the result as I receive my order from Shapeways.
+S	ource code is on [Github][github]. Feel free to reuse/modify it! ~~I'll post the result as I receive~~ I have received my order from Shapeways, and it's great!
 
-<script src="https://gist.github.com/adeptus-dad/dfbb9b4c33fbc11f804af11db851f412.js"></script>
+I set up a store on Shapeways if you want to order this directly. (I added a 3€ markup to the Shapeways price, if I sell a few of these I will be able to fund some new project).
+
+<iframe width="625" height="652" frameborder="0" allowfullscreen allowtransparency src="//www.shapeways.com/fragments/product?spin=SC2RYUN2P"></iframe>
 
 
 [missiles]: {{ site.baseurl }}/assets/img/ork/missiles.png
+[printed]: {{ site.baseurl }}/assets/img/ork/printed.png
 [proteus]: {{ site.baseurl }}/2019/03/08/warhound-proteus-2.html
+[github]: https://github.com/adeptus-dad/ork-missiles
 
 

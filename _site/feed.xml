@@ -5,10 +5,10 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Wed, 13 Mar 2019 17:32:51 +0100</pubDate>
+    <pubDate>Mon, 18 Mar 2019 09:26:04 +0100</pubDate>
     
       <item>
-        <title>Parametric Ork Missiles in OpenScad</title>
+        <title>Parametric Ork Missiles in OpenScad (updated)</title>
         <link>/2019/03/12/ork-missiles.html</link>
         <guid isPermaLink="true">/2019/03/12/ork-missiles.html</guid>
         <description>&lt;p&gt;&lt;img src=&quot;/assets/img/ork/missiles.png&quot; alt=&quot;missiles&quot; /&gt;
@@ -23,9 +23,11 @@ My &lt;a href=&quot;/2019/03/08/warhound-proteus-2.html&quot;&gt;recent order&lt
   &lt;li&gt;number of fins&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Main OpenScad code below. Feel free to reuse/modify it! I’ll post the result as I receive my order from Shapeways.&lt;/p&gt;
+&lt;p&gt;S	ource code is on &lt;a href=&quot;https://github.com/adeptus-dad/ork-missiles&quot;&gt;Github&lt;/a&gt;. Feel free to reuse/modify it! &lt;del&gt;I’ll post the result as I receive&lt;/del&gt; I have received my order from Shapeways, and it’s great!&lt;/p&gt;
 
-&lt;script src=&quot;https://gist.github.com/adeptus-dad/dfbb9b4c33fbc11f804af11db851f412.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;I set up a store on Shapeways if you want to order this directly. (I added a 3€ markup to the Shapeways price, if I sell a few of these I will be able to fund some new project).&lt;/p&gt;
+
+&lt;iframe width=&quot;625&quot; height=&quot;652&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allowtransparency=&quot;&quot; src=&quot;//www.shapeways.com/fragments/product?spin=SC2RYUN2P&quot;&gt;&lt;/iframe&gt;
 
 </description>
         <pubDate>Tue, 12 Mar 2019 01:00:00 +0100</pubDate>
