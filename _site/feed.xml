@@ -5,7 +5,29 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Mon, 18 Mar 2019 09:47:06 +0100</pubDate>
+    <pubDate>Mon, 18 Mar 2019 17:14:48 +0100</pubDate>
+    
+      <item>
+        <title>Proteus Pattern Warhound: Printed</title>
+        <link>/2019/03/18/warhound-proteus-3.html</link>
+        <guid isPermaLink="true">/2019/03/18/warhound-proteus-3.html</guid>
+        <description>&lt;p&gt;I received my order from Shapeways! The body was a bit damaged, but I was able to salvage it with greenstuff. They will send me a replacement part that will go on doggie number two. I tested everything, and… it fits very well!
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/proteus/MEGA.jpg&quot; alt=&quot;mega&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/proteus/top.jpg&quot; alt=&quot;top&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The carapace and arms mount work exactly as intended. There are a couple of millimeter adjustments to make to the body (more thickness where it broke, and make the head protrude by 1.5mm). Oh, in my previous posts I forgot to mention the new barrels for the Vulcan. Now, that’s a proper &lt;strong&gt;MEGA&lt;/strong&gt; bolter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/proteus/nuts.jpg&quot; alt=&quot;nuts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The weapons were magnetized via ∅3mm x 4mm magnets, and I superglued two nuts inside the body, it works very well.&lt;/p&gt;
+
+&lt;p&gt;I will try to put some paint on it soon!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 18 Mar 2019 01:00:00 +0100</pubDate>
+      </item>
     
       <item>
         <title>Parametric Ork Missiles in OpenScad (updated)</title>
