@@ -18,7 +18,7 @@ I was just needing some propa' orky missiles, so I went to OpenScad. And of cour
 - size of the fins
 - number of fins
 
-S	ource code is on [Github][github]. Feel free to reuse/modify it! ~~I'll post the result as I receive~~ I have received my order from Shapeways, and it's great!
+Source code is on [Github][github]. Feel free to reuse/modify it! ~~I'll post the result as I receive~~ I have received my order from Shapeways, and it's great!
 
 I set up a store on Shapeways if you want to order this directly. (I added a 3€ markup to the Shapeways price, if I sell a few of these I will be able to fund some new project).
 
