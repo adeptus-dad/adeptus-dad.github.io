@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Mon, 01 Apr 2019 17:35:13 +0200</pubDate>
+    <pubDate>Tue, 02 Apr 2019 10:45:45 +0200</pubDate>
     
       <item>
         <title>Proteus Pattern Warhound Marches to War</title>
@@ -44,11 +44,11 @@
 &lt;p&gt;If you want one:&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-1-2&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
-	  &lt;a href=&quot;https://www.shapeways.com/shops/adeptus-dad&quot;&gt;Shapeways&lt;/a&gt;
+  &lt;div class=&quot;col-1-2 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
+	  &lt;a class=&quot;button&quot; href=&quot;https://www.shapeways.com/shops/adeptus-dad&quot;&gt;Shapeways&lt;/a&gt;
   &lt;/div&gt;
-  &lt;div class=&quot;col-1-2&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
-	  &lt;a href=&quot;https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/proteus-pattern-warhound-parts-a&quot;&gt;cgtrader&lt;/a&gt;
+  &lt;div class=&quot;col-1-2 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
+	  &lt;a class=&quot;button&quot; href=&quot;https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/proteus-pattern-warhound-parts-a&quot;&gt;cgtrader&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
