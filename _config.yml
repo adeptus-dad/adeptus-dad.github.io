@@ -7,7 +7,7 @@ url: "https://adeptus-dad.github.io/"
 theme_settings: 
   # Meta
   title: Adeptus Dad
-  avatar: assets/img/avatar-large.jpg
+  avatar: assets/img/forge.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids." # used by search engines
