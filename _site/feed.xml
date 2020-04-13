@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Mon, 13 Apr 2020 11:18:34 +0200</pubDate>
+    <pubDate>Mon, 13 Apr 2020 15:33:49 +0200</pubDate>
     
       <item>
         <title>Laser-cut 8mm Super-Heavy Tank</title>
@@ -21,13 +21,16 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;I still have to whip up some rules (no shields, limited movement, macro-cannon?) and try them in a small game. The one on the picture is the prototype, I have adjuted the plans since. Speakinf of the plans: here they are (tested with k40whisperer).&lt;/p&gt;
+&lt;p&gt;I still have to whip up some rules (no shields, limited movement, macro-cannon?) and try them in a small game. The one on the picture is the prototype, I have made small adjustments to the plans since. Speaking of the plans: you will find them below (.SVG originally tested with k40whisperer). You just have to add a cannon barrel, I made mine in plasticard with three diameters. Out of a set from &lt;a href=&quot;http://www.greenstuffworld.com/fr/lots-de-profiles/238-plasticarte-plasticard-plastique-profile-mixtes-20.html?search_query=plasticard+tube&amp;amp;results=19&quot;&gt;Greenstuffworld&lt;/a&gt; (I get no money from them, but they’re nice).&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-1-1&quot;&gt;
   	&lt;a href=&quot;/assets/img/superheavy/superheavy.svg&quot;&gt;&lt;img width=&quot;200%&quot; src=&quot;/assets/img/superheavy/superheavy.svg&quot; /&gt;&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;p&gt;PS: forthcoming post about the lancers.&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 13 Apr 2020 02:00:00 +0200</pubDate>
       </item>
