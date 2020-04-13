@@ -5,8 +5,8 @@ permalink: /downloads/
 feature-img: "assets/img/titanicusBoxDusty.jpg"
 ---
 
-## Règles maison Adeptus Titanicus (Epic)
-[![Rules][titanicus]][titanicus]
+## Nothing to see here at the moment.
+
 
 
 [titanicus]: {{ site.baseurl }}/assets/pdf/titanicus.pdf

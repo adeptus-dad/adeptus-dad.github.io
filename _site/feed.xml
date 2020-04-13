@@ -5,12 +5,37 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Sat, 21 Mar 2020 15:30:52 +0100</pubDate>
+    <pubDate>Mon, 13 Apr 2020 11:18:34 +0200</pubDate>
+    
+      <item>
+        <title>Laser-cut 8mm Super-Heavy Tank</title>
+        <link>/2020/04/13/laser-cut-8mm-super-heavy.html</link>
+        <guid isPermaLink="true">/2020/04/13/laser-cut-8mm-super-heavy.html</guid>
+        <description>&lt;p&gt;As a small experiment, I tried to build a Super-Heavy Tank at 8mm scale (whatever that means) with my k40 laser cutter and 3mm MDF. After a coat of paint the result is not so bad, and absolutely cheap if you already have the cutter.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-1-2&quot;&gt;
+  	&lt;img src=&quot;/assets/img/superheavy/superheavy1.jpeg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-1-2&quot;&gt;
+  	&lt;img src=&quot;/assets/img/superheavy/superheavy2.jpeg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I still have to whip up some rules (no shields, limited movement, macro-cannon?) and try them in a small game. The one on the picture is the prototype, I have adjuted the plans since. Speakinf of the plans: here they are (tested with k40whisperer).&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-1-1&quot;&gt;
+  	&lt;a href=&quot;/assets/img/superheavy/superheavy.svg&quot;&gt;&lt;img width=&quot;200%&quot; src=&quot;/assets/img/superheavy/superheavy.svg&quot; /&gt;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 13 Apr 2020 02:00:00 +0200</pubDate>
+      </item>
     
       <item>
         <title>Laser-cut 8mm Buildings</title>
-        <link>/2020/03/21/laser-cut-8mm-buildings.html</link>
-        <guid isPermaLink="true">/2020/03/21/laser-cut-8mm-buildings.html</guid>
+        <link>/2020/03/21/laser-cut-8mm-buildings-copie.html</link>
+        <guid isPermaLink="true">/2020/03/21/laser-cut-8mm-buildings-copie.html</guid>
         <description>&lt;p&gt;With the lockdown looming last week and business slowing down, I decided to make some more time for the hobby and (re)start some projects that could lead to some play time with the kids. So… I ordered the latest &lt;a href=&quot;https://www.games-workshop.com/fr-FR/Adeptus-Titanicus-Core-Game-EN-2020&quot;&gt;Adeptus Titanicus boxed set&lt;/a&gt; from Games Workshop (awesome value). This way I can build a nice maniple with one Reaver and four warhounds, while starting some small games against the other Reaver + the Cerastii (Cerastuses?)&lt;/p&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-1-1&quot;&gt;

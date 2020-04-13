@@ -3,7 +3,7 @@ layout: post
 title:  "Laser-cut 8mm Buildings"
 date:   2020-03-21 00:00:00
 author: Dad
-tags:   [8mm, terrain, blog, store]
+tags:   [8mm, laser cut, terrain, blog, store]
 feature-img: "assets/img/habitat/banner.jpg"
 ---
 
