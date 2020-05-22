@@ -7,7 +7,7 @@ tags:   [8mm, sinister, warhound, openScad, blog]
 feature-img: "assets/img/superheavy/banner.jpg"
 ---
 
-I designed a custom head for the plastic GW Warhound kit to echo the feel of the SInister Warlord Psi titan.
+I designed a custom head for the plastic GW Warhound kit to echo the feel of the Sinister Warlord Psi titan.
 <div class="row">
   <div class="col-1-1">
   	<img src="{{ site.baseurl }}/assets/img/proteus/sinister-head.jpg"/>
