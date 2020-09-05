@@ -5,7 +5,7 @@ date:   2020-09-03 00:00:00
 author: Dad
 tags:   [8mm, terrain, ship, laser cut, blog]
 feature-img: "assets/img/zebulon/banner.jpeg"
-link_preview: "assets/img/zebulon/zebulon-p - 1.jpeg"
+link-preview: "assets/img/zebulon/zebulon-p - 1.jpeg"
 ---
 
 After reading the excellent [Titandeath][td] by Guy Haley a few months ago, I began to think about dropships and how they could be incorporated at the AT18 scale. I decided to try my hand at a smallish dropship designed to deploy a pair of Warhound titans. I quickly put aside the thought of using 3d printing due to the size/cost, so went with laser cut mdf. After a few coats of paint, the result is not so bad. Behold the Zebulon-pattern Dropship!

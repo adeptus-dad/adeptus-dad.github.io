@@ -3,11 +3,11 @@
 	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- Custom link preview -->
-	<link rel="image_src" href="/{{ page.link_preview }}" />
+	<!-- Custom opengraph link preview -->
+	<meta property="og:image" content="https://adeptus-dad.github.io/{{ page.link-preview }}" />
 
 	<!-- CSS -->
-	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
 
 	<!--Favicon-->
 	<link rel="shortcut icon" href="{{ site.baseurl }}/{{ site.theme_settings.favicon }}" type="image/x-icon">

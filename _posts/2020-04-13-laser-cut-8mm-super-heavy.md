@@ -5,7 +5,7 @@ date:   2020-04-13 00:00:00
 author: Dad
 tags:   [8mm, super heavy, tank, laser cut, blog]
 feature-img: "assets/img/superheavy/banner.jpg"
-link_preview: "assets/img/superheavy/superheavy1.jpeg"
+link-preview: "assets/img/superheavy/superheavy1.jpeg"
 ---
 
 As a small experiment, I tried to build a Super-Heavy Tank at 8mm scale (whatever that means) with my k40 laser cutter and 3mm MDF. After a coat of paint the result is not so bad, and absolutely cheap if you already have the cutter.
