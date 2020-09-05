@@ -3,9 +3,9 @@
   <channel>
     <title>Adeptus Dad</title>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://localhost:4000/</link>
+    <link>https://adeptus-dad.github.io//</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Sat, 05 Sep 2020 13:19:37 +0200</pubDate>
+    <pubDate>Sat, 05 Sep 2020 13:22:56 +0200</pubDate>
     
       <item>
         <title>Laser-cut 8mm Zebulon-pattern Dropship</title>
