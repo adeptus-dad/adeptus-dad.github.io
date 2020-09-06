@@ -3,9 +3,9 @@
   <channel>
     <title>Adeptus Dad</title>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://adeptus-dad.github.io//</link>
+    <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Sat, 05 Sep 2020 15:45:32 +0200</pubDate>
+    <pubDate>Sun, 06 Sep 2020 17:48:58 +0200</pubDate>
     
       <item>
         <title>Laser-cut 8mm Zebulon-pattern Dropship</title>
@@ -14,26 +14,26 @@
         <description>&lt;p&gt;After reading the excellent &lt;a href=&quot;https://www.blacklibrary.com/the-horus-heresy/novels/the-horus-heresy-titan-death-ebook.html&quot;&gt;Titandeath&lt;/a&gt; by Guy Haley a few months ago, I began to think about dropships and how they could be incorporated at the AT18 scale. I decided to try my hand at a smallish dropship designed to deploy a pair of Warhound titans. I quickly put aside the thought of using 3d printing due to the size/cost, so went with laser cut mdf. After a few coats of paint, the result is not so bad. Behold the Zebulon-pattern Dropship!&lt;/p&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-1-2&quot;&gt;
-  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p - 1.jpeg&quot; /&gt;
+  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p-1.jpeg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-1-2&quot;&gt;
-  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p - 2.jpeg&quot; /&gt;
+  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p-2.jpeg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;This class of dropship was frequently used before the Heresy by Legio Gregoros to deploy pairs of Proteus pattern Warhound titans behind ennemy lines (or on the laundry room’s countertop).&lt;/p&gt;
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-1-2&quot;&gt;
-  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p - 3.jpeg&quot; /&gt;
+  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p-3.jpeg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-1-2&quot;&gt;
-  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p - 4.jpeg&quot; /&gt;
+  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p-4.jpeg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-1-2&quot;&gt;
-  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p - 5.jpeg&quot; /&gt;
+  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p-5.jpeg&quot; /&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-1-2&quot;&gt;
-  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p - 6.jpeg&quot; /&gt;
+  	&lt;img src=&quot;/assets/img/zebulon/zebulon-p-6.jpeg&quot; /&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
