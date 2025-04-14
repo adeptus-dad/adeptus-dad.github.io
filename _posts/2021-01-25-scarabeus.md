@@ -30,7 +30,7 @@ If you fancy a kit, find them there:
 
 <div class="row">
   <div class="col-1-2 centered" style="font-weight: bold; font-size: 200%">
-	  <iframe width="625" height="652" frameborder="0" allowfullscreen allowtransparency src="//www.shapeways.com/fragments/product?spin=Y9D7DDF6E"></iframe>
+    <a class="button" href="https://cults3d.com/en/users/adeptusdad/3d-models">Cults3D</a>
   </div>
   <div class="col-1-2 centered" style="font-weight: bold; font-size: 200%">
 	  <a class="button" href="https://www.cgtrader.com/3d-print-models/games-toys/board-games/scarabeus-pattern-titan-carapace-upgrade-kit">cgtrader</a>
