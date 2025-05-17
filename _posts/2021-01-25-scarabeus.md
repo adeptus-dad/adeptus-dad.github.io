@@ -5,7 +5,7 @@ date:   2021-01-25 00:00:00
 author: Dad
 tags:   [8mm, titan, warlord, scarabeus]
 feature-img: "assets/img/titanicusBoxDusty.jpg"
-link-preview: "assets/img/scarabeus/scarabeus - 1.jpeg"
+link-preview: "assets/img/titanicusBoxDusty.jpg"
 ---
 
 Although the new Titanicus models are awesome, I was never quite fond of the Mars pattern. There was always a longing for the old school so-called beetleback titan. So...
