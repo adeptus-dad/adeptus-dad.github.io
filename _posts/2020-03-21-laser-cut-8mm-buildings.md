@@ -50,13 +50,12 @@ I tried to balance the level of detail with the engraving and cut time. I have n
 </div>
 
 
-I opened a shop on Etsy to sell the svg files (and maybe later sell assembled kits), but Etsy has killed my shop a few hour after opening without notice nor explanation. So, instead I have put a ZIP archive on CGTrader with all the SVG files. If you are interested, it's here:
+I opened a shop on Etsy to sell the svg files (and maybe later sell assembled kits), but Etsy has killed my shop a few hour after opening without notice nor explanation. So, instead I have put a ZIP archive on ~~CGTrader~~ Cults3d with all the SVG files. If you are interested, it's here:
 
 <div class="row">
-  <div class="col-1-1 centered" style="font-weight: bold; font-size: 200%">
-	  <a class="button" href="https://www.cgtrader.com/3d-print-models/games-toys/game-accessories/svg-files-for-laser-cut-mdf-buildings-for-8mm-tabletop-wargames">cgtrader</a>
+  <div class="col-1-2 centered" style="font-weight: bold; font-size: 200%">
+    <a class="button" href="https://cults3d.com/en/users/adeptusdad/3d-models">Cults3D</a>
   </div>
 </div><!-- /.row -->
 
-[cgtrader]: https://www.cgtrader.com/3d-print-models/games-toys/game-accessories/svg-files-for-laser-cut-mdf-buildings-for-8mm-tabletop-wargames
 [gwat]: https://www.games-workshop.com/fr-FR/Adeptus-Titanicus-Core-Game-EN-2020

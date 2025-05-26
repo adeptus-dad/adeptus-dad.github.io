@@ -5,35 +5,52 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://localhost:4000/</link>
     <description>After a 20 years break, Adeptus Dad is revisiting Games Workshop Hobby with the kids.</description>
-    <pubDate>Sat, 17 May 2025 18:22:53 +0200</pubDate>
+    <pubDate>Mon, 26 May 2025 12:27:05 +0200</pubDate>
+    
+      <item>
+        <title>A few changes</title>
+        <link>/2025/05/26/a-few-changes.html</link>
+        <guid isPermaLink="true">/2025/05/26/a-few-changes.html</guid>
+        <description>&lt;p&gt;Things will get a bit livelier around here, as &lt;strong&gt;Adeptus Son&lt;/strong&gt; has decided to join the internet party as acting social media overseer. We may observe some activity in the coming days and weeks.&lt;/p&gt;
+
+&lt;p&gt;On another front, CGtrader has changed their payout rate system starting June 2nd. This would lower us to about 61%, which a bit of a scam, I think. We will soon delete our CGtrader account and focus on Cults3d. We will update our old posts with the correct store links.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-1-2 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
+    &lt;a class=&quot;button&quot; href=&quot;https://cults3d.com/en/users/adeptusdad/3d-models&quot;&gt;Cults3D&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+</description>
+        <pubDate>Mon, 26 May 2025 02:00:00 +0200</pubDate>
+      </item>
     
       <item>
         <title>Laser-cut drop pod assault!</title>
         <link>/2024/04/04/drop-pod.html</link>
         <guid isPermaLink="true">/2024/04/04/drop-pod.html</guid>
         <description>&lt;p&gt;What’s better than a drop pod? A drop pod with a laser!&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-1-2&quot;&gt;
+    &lt;img src=&quot;/assets/img/pod/drop-pod-1.jpeg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-1-2&quot;&gt;
+    &lt;img src=&quot;/assets/img/pod/drop-pod-2.jpeg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-1-2&quot;&gt;
+    &lt;img src=&quot;/assets/img/pod/drop-pod-3.jpeg&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;These simple orbital space assault capsules can be used as terrain in your games 
 (they actually look a bit like antitank obstacles) or to set up an overwhelming 
 space assault for your space warriors of choice, while waiting for official plastic pods.&lt;/p&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-1-2&quot;&gt;
-  	&lt;img src=&quot;/assets/img/pod/drop-pod-1.jpeg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-1-2&quot;&gt;
-  	&lt;img src=&quot;/assets/img/pod/drop-pod-2.jpeg&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-1-2&quot;&gt;
-  	&lt;img src=&quot;/assets/img/pod/drop-pod-3.jpeg&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
 &lt;p&gt;If you fancy the SVG file, find it there:&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-1-2 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
-	  &lt;a class=&quot;button&quot; href=&quot;https://www.cgtrader.com/3d-print-models/games-toys/board-games/svg-files-for-orbital-assault-pods-in-8mm-wargames&quot;&gt;cgtrader&lt;/a&gt;
+    &lt;a class=&quot;button&quot; href=&quot;https://cults3d.com/en/users/adeptusdad/3d-models&quot;&gt;Cults3D&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
@@ -68,9 +85,6 @@ space assault for your space warriors of choice, while waiting for official plas
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-1-2 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
     &lt;a class=&quot;button&quot; href=&quot;https://cults3d.com/en/users/adeptusdad/3d-models&quot;&gt;Cults3D&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-1-2 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
-	  &lt;a class=&quot;button&quot; href=&quot;https://www.cgtrader.com/3d-print-models/games-toys/board-games/scarabeus-pattern-titan-carapace-upgrade-kit&quot;&gt;cgtrader&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
@@ -208,11 +222,11 @@ space assault for your space warriors of choice, while waiting for official plas
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;I opened a shop on Etsy to sell the svg files (and maybe later sell assembled kits), but Etsy has killed my shop a few hour after opening without notice nor explanation. So, instead I have put a ZIP archive on CGTrader with all the SVG files. If you are interested, it’s here:&lt;/p&gt;
+&lt;p&gt;I opened a shop on Etsy to sell the svg files (and maybe later sell assembled kits), but Etsy has killed my shop a few hour after opening without notice nor explanation. So, instead I have put a ZIP archive on &lt;del&gt;CGTrader&lt;/del&gt; Cults3d with all the SVG files. If you are interested, it’s here:&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;col-1-1 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
-	  &lt;a class=&quot;button&quot; href=&quot;https://www.cgtrader.com/3d-print-models/games-toys/game-accessories/svg-files-for-laser-cut-mdf-buildings-for-8mm-tabletop-wargames&quot;&gt;cgtrader&lt;/a&gt;
+  &lt;div class=&quot;col-1-2 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
+    &lt;a class=&quot;button&quot; href=&quot;https://cults3d.com/en/users/adeptusdad/3d-models&quot;&gt;Cults3D&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
@@ -262,10 +276,7 @@ space assault for your space warriors of choice, while waiting for official plas
 
 &lt;div class=&quot;row&quot;&gt;
   &lt;div class=&quot;col-1-2 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
-	  &lt;a class=&quot;button&quot; href=&quot;https://www.shapeways.com/shops/adeptus-dad&quot;&gt;Shapeways&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-1-2 centered&quot; style=&quot;font-weight: bold; font-size: 200%&quot;&gt;
-	  &lt;a class=&quot;button&quot; href=&quot;https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/proteus-pattern-warhound-parts-a&quot;&gt;cgtrader&lt;/a&gt;
+    &lt;a class=&quot;button&quot; href=&quot;https://cults3d.com/en/users/adeptusdad/3d-models&quot;&gt;Cults3D&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
@@ -383,9 +394,7 @@ My &lt;a href=&quot;/2019/03/08/warhound-proteus-2.html&quot;&gt;recent order&lt
 
 &lt;p&gt;Source code is on &lt;a href=&quot;https://github.com/adeptus-dad/ork-missiles&quot;&gt;Github&lt;/a&gt;. Feel free to reuse/modify it! &lt;del&gt;I’ll post the result as I receive&lt;/del&gt; I have received my order from Shapeways, and it’s great!&lt;/p&gt;
 
-&lt;p&gt;I set up a store on Shapeways if you want to order this directly. (I added a 3€ markup to the Shapeways price, if I sell a few of these I will be able to fund some new project).&lt;/p&gt;
-
-&lt;iframe width=&quot;625&quot; height=&quot;652&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allowtransparency=&quot;&quot; src=&quot;//www.shapeways.com/fragments/product?spin=SC2RYUN2P&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;del&gt;I set up a store on Shapeways if you want to order this directly. (I added a 3€ markup to the Shapeways price, if I sell a few of these I will be able to fund some new project).&lt;/del&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 12 Mar 2019 01:00:00 +0100</pubDate>
@@ -457,17 +466,6 @@ My &lt;a href=&quot;/2019/03/08/warhound-proteus-2.html&quot;&gt;recent order&lt
 &lt;p&gt;More recently, the concept was transferred to knight, with the thundercoil harpoon available to Knight Valiants.&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Jan 2019 13:00:00 +0100</pubDate>
-      </item>
-    
-      <item>
-        <title>Ignition!</title>
-        <link>/2018/11/15/start.html</link>
-        <guid isPermaLink="true">/2018/11/15/start.html</guid>
-        <description>&lt;p&gt;Hello dusty old box!&lt;/p&gt;
-
-&lt;p&gt;3D Roleplay! Hobby Game!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 15 Nov 2018 00:00:00 +0100</pubDate>
       </item>
     
   </channel>
