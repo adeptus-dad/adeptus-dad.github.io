@@ -10,7 +10,7 @@ Here are a few links to Adeptus Dad's stores, social media and main blog.
 
 <div class="row">
   <div class="col-1-3 centered" style="font-weight: bold; font-size: 200%;">
-    <a class="button" href="https://cults3d.com/en/users/adeptusdad/3d-models">Cults3D</a>
+    <a class="button" href="https://cults3d.com/en/users/adeptusdad/3d-models">Cults.</a>
   </div>
   <div class="col-1-3 centered" style="font-weight: bold; font-size: 200%;">
     <a class="button" href="https://www.instagram.com/adeptus.dad/">Instagram</a>

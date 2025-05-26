@@ -48,7 +48,7 @@ If you want them, you will ~~have to wait until I upload the files~~ find them t
 
 <div class="row">
   <div class="col-1-2 centered" style="font-weight: bold; font-size: 200%">
-    <a class="button" href="https://cults3d.com/en/users/adeptusdad/3d-models">Cults3D</a>
+    <a class="button" href="https://cults3d.com/en/users/adeptusdad/3d-models">Cults.</a>
   </div>
 </div><!-- /.row -->
 
