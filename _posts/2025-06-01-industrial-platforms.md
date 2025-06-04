@@ -5,6 +5,7 @@ date:   2025-06-01 00:00:00
 author: Dad
 tags:   [8mm, laser cut, terrain, store]
 feature-img: "assets/img/superheavy/banner.jpg"
+link-preview: "assets/img/platforms/platforms - 13.jpeg"
 ---
 
 Elevate your battles with laser-cut industrial platforms. 
